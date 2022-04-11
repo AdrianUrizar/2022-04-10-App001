@@ -1,5 +1,6 @@
 name = str(input("\nRegistrese ingresando su nombre: "))
 edad = int(input("\nIngrese sus edad: "))
+dni = int(input("\nIngrese su numero de DNI (sin los puntos): "))
 print(f"\nBienvenido {name}, gracias por registrarse")
 print("Ya puede hacer uso de nuestros servicios")
 exit()
