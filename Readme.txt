@@ -1,1 +1,0 @@
-2020-04-10 - Leer con detenimiento.
